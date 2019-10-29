@@ -1,5 +1,5 @@
 A small tool for saving bash history on MacOS.
 
-Tired of wanting to remember commands that were not stored in .bash_history because there were multiple terminal tab open? Run this to savie your active terminals history in a timestamped file.
+Tired of wanting to remember commands that were not stored in .bash_history because there were multiple terminal tab open? Run this to save the active terminals history in a timestamped file.
 
 Run as an alias, script or crontab (will a crontab work?)
